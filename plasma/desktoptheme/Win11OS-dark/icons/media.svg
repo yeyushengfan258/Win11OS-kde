@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   sodipodi:docname="media.svg"
+   id="svg67"
+   viewBox="0 0 22 22"
+   version="1.1"
+   height="22"
+   width="22"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata71">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:document-rotation="0"
+     inkscape:current-layer="svg67"
+     inkscape:window-maximized="1"
+     inkscape:window-y="40"
+     inkscape:window-x="0"
+     inkscape:cy="7.6792993"
+     inkscape:cx="0.69212569"
+     inkscape:zoom="15.170655"
+     showgrid="true"
+     id="namedview69"
+     inkscape:window-height="954"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#c8c8c8"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:pagecheckerboard="0">
+    <inkscape:grid
+       id="grid878"
+       type="xygrid" />
+  </sodipodi:namedview>
+  <defs
+     id="defs3">
+    <style
+       type="text/css"
+       id="current-color-scheme">.ColorScheme-Text { color:#dedede; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#dedede; }</style>
+  </defs>
+  <g
+     id="media-record"
+     transform="translate(22,-1055.4)"
+     style="fill:#000000">
+    <rect
+       y="1030.4"
+       width="22"
+       height="22"
+       opacity="0.00100002"
+       id="rect5"
+       x="0" />
+    <path
+       class="ColorScheme-Highlight"
+       d="m 11,1035.4 c -3.311,0 -6,2.6888 -6,6 0,3.311 2.689,6 6,6 3.311,0 6,-2.689 6,-6 0,-3.3112 -2.689,-6 -6,-6 z"
+       enable-background="new"
+       fill="#f96060"
+       id="path7"
+       style="fill:#ff3232;fill-opacity:1" />
+  </g>
+  <g
+     id="media-playback-stop"
+     transform="translate(44,-1055.4)"
+     style="fill:#000000">
+    <rect
+       y="1030.4"
+       width="22"
+       height="22"
+       opacity="0.00100002"
+       id="rect10"
+       x="0" />
+    <path
+       class="ColorScheme-Text"
+       d="m 5,1035.4 v 12 h 12 v -12 z"
+       enable-background="new"
+       fill="#dedede"
+       id="path12"
+       style="fill:#fbfbfb;fill-opacity:1" />
+  </g>
+  <g
+     id="media-skip-forward"
+     transform="translate(66,-1055.4)"
+     style="fill:#000000">
+    <rect
+       y="1030.4"
+       width="22"
+       height="22"
+       opacity="0.00100002"
+       id="rect15"
+       x="0" />
+    <path
+       class="ColorScheme-Text"
+       d="m 19,1037.4 v 8 h -2 v -8 z m -2,4 -7,4 v -8 z m -7,0 -7,4 v -8 z"
+       enable-background="new"
+       fill="#dedede"
+       id="path17"
+       style="fill:#fbfbfb;fill-opacity:1" />
+  </g>
+  <g
+     id="media-skip-backward"
+     transform="matrix(-1,0,0,1,110,-1055.4)"
+     style="fill:#000000">
+    <rect
+       y="1030.4"
+       width="22"
+       height="22"
+       opacity="0.00100002"
+       id="rect20"
+       x="0" />
+    <path
+       class="ColorScheme-Text"
+       d="m 19,1037.4 v 8 h -2 v -8 z m -2,4 -7,4 v -8 z m -7,0 -7,4 v -8 z"
+       enable-background="new"
+       fill="#dedede"
+       id="path22"
+       style="fill:#fbfbfb;fill-opacity:1" />
+  </g>
+  <g
+     id="media-seek-forward"
+     transform="translate(110,-1055.4)"
+     style="fill:#000000">
+    <rect
+       y="1030.4"
+       width="22"
+       height="22"
+       opacity="0.00100002"
+       id="rect25"
+       x="0" />
+    <path
+       class="ColorScheme-Text"
+       d="m 11,1037.4 7,4 -7,4 z m 0,4 -7,4 v -8 z"
+       enable-background="new"
+       fill="#dedede"
+       id="path27"
+       style="fill:#fbfbfb;fill-opacity:1" />
+  </g>
+  <g
+     id="media-seek-backward"
+     transform="matrix(-1,0,0,1,154,-1055.4)"
+     style="fill:#000000">
+    <rect
+       y="1030.4"
+       width="22"
+       height="22"
+       opacity="0.00100002"
+       id="rect30"
+       x="0" />
+    <path
+       class="ColorScheme-Text"
+       d="m 11,1037.4 7,4 -7,4 z m 0,4 -7,4 v -8 z"
+       enable-background="new"
+       fill="#dedede"
+       id="path32"
+       style="fill:#fbfbfb;fill-opacity:1" />
+  </g>
+  <g
+     id="media-eject"
+     transform="translate(-44,-1055.4)"
+     style="fill:#000000">
+    <rect
+       y="1030.4"
+       width="22"
+       height="22"
+       opacity="0.00100002"
+       id="rect35"
+       x="0" />
+    <path
+       class="ColorScheme-Text"
+       d="m 11,1036.4 -5,5 v 1 h 10 v -1 z m -5,8 v 2 h 10 v -2 z"
+       color="#dedede"
+       display="block"
+       fill="#dedede"
+       id="path37"
+       style="fill:#fbfbfb;fill-opacity:1" />
+  </g>
+  <g
+     id="media-playback-pause"
+     transform="translate(-22,-1055.4)"
+     style="fill:#000000">
+    <rect
+       y="1030.4"
+       width="22"
+       height="22"
+       opacity="0.00100002"
+       id="rect40"
+       x="0" />
+    <path
+       class="ColorScheme-Text"
+       d="m 5,1035.4 v 12 h 4 v -12 z m 8,0 v 12 h 4 v -12 z"
+       enable-background="new"
+       fill="#dedede"
+       id="path42"
+       style="fill:#fbfbfb;fill-opacity:1" />
+  </g>
+  <g
+     id="media-playback-start"
+     transform="translate(0,-1055.4)"
+     style="fill:#000000">
+    <rect
+       y="1030.4"
+       width="22"
+       height="22"
+       opacity="0.00100002"
+       id="rect45"
+       x="0" />
+    <path
+       class="ColorScheme-Text"
+       d="m 6,1035.4 v 12 l 11,-6 -9.8992,-5.3996 z"
+       enable-background="new"
+       fill="#dedede"
+       id="path47"
+       style="fill:#fbfbfb;fill-opacity:1" />
+  </g>
+  <g
+     id="media-playback-paused"
+     transform="translate(-25,-28)">
+    <rect
+       style="color:#dedede;stroke-width:1.5"
+       x="0.99975014"
+       y="27.99975"
+       width="22.0005"
+       height="22.0005"
+       fill="#ed1515"
+       fill-opacity="0.00392163"
+       opacity="0.01"
+       id="rect50" />
+    <circle
+       style="fill:none;fill-opacity:1;stroke:#fbfbfb;stroke-width:0.999771;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="circle901"
+       cx="12"
+       cy="39"
+       r="7.5001144" />
+    <rect
+       style="fill:#ffffff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect967"
+       width="1"
+       height="6"
+       x="10"
+       y="36"
+       ry="0.5" />
+    <rect
+       style="fill:#ffffff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect1068"
+       width="1"
+       height="6"
+       x="13"
+       y="36"
+       ry="0.5" />
+  </g>
+  <g
+     id="media-playback-playing"
+     transform="translate(-25,-28)">
+    <rect
+       style="color:#dedede;stroke-width:1.5"
+       x="24.99975"
+       y="27.99975"
+       width="22.0005"
+       height="22.0005"
+       fill="#ed1515"
+       fill-opacity="0.00392163"
+       opacity="0.01"
+       id="rect55" />
+    <path
+       sodipodi:nodetypes="cccc"
+       d="m 34,36 v 6 l 4,-3 z"
+       style="fill:#fbfbfb;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect932" />
+    <circle
+       style="fill:none;fill-opacity:1;stroke:#fbfbfb;stroke-width:0.999771;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="circle1152"
+       cx="36"
+       cy="39"
+       r="7.5001144" />
+  </g>
+  <g
+     id="media-playback-stopped"
+     transform="translate(-25,-28)">
+    <rect
+       style="color:#dedede;stroke-width:1.5"
+       x="48.999752"
+       y="27.99975"
+       width="22.0005"
+       height="22.0005"
+       fill="#ed1515"
+       fill-opacity="0.00392163"
+       opacity="0.01"
+       id="rect60" />
+    <circle
+       style="fill:none;fill-opacity:1;stroke:#fbfbfb;stroke-width:0.999771;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="circle1287"
+       cx="60"
+       cy="39"
+       r="7.5001144" />
+    <rect
+       style="fill:#ffffff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect1666"
+       width="6"
+       height="6"
+       x="57"
+       y="36"
+       ry="2" />
+  </g>
+</svg>
