@@ -22,7 +22,7 @@ else
   WALLPAPER_DIR="$HOME/.local/share/wallpapers"
 fi
 
-THEME_NAME=Win11OS-dark
+THEME_NAME=Win11OS
 
 [[ ! -d ${AURORAE_DIR} ]] && mkdir -p ${AURORAE_DIR}
 [[ ! -d ${SCHEMES_DIR} ]] && mkdir -p ${SCHEMES_DIR}

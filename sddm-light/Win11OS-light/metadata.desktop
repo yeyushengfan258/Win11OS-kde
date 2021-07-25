@@ -1,0 +1,16 @@
+[SddmGreeterTheme]
+Name=Win11OS-light
+Description=Win11OS-light Theme
+Author=yeyushengfan258
+Copyright=(c) 2019, yeyushengfan258
+License=CC-BY-SA
+Type=sddm-theme
+Version=0.1.0
+Website=https://github.com/yeyushengfan258/Win11OS-light-kde
+Screenshot=Preview.png
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Email=vinceliuice@hotmail.com
+Theme-Id=Win11OS-light
+Theme-API=2.0

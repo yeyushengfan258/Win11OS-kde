@@ -1,6 +1,6 @@
-## Win11OS-dark KDE Theme
+## Win11OS KDE Theme
 
-Win11OS-dark kde is a light clean theme for KDE Plasma desktop.
+Win11OS kde is a light clean theme for KDE Plasma desktop.
 
 In this repository you'll find:
 
