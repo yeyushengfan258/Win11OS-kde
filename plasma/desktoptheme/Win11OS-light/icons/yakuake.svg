@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="22"
    height="22"
    version="1.1"
    id="svg12"
    sodipodi:docname="yakuake.svg"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata
      id="metadata16">
     <rdf:RDF>
@@ -21,7 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -35,20 +35,21 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="935"
+     inkscape:window-height="958"
      id="namedview14"
      showgrid="true"
      inkscape:snap-bbox="true"
      inkscape:bbox-nodes="true"
      inkscape:snap-bbox-edge-midpoints="true"
      inkscape:zoom="18.886364"
-     inkscape:cx="-1.8980431"
-     inkscape:cy="10.676396"
+     inkscape:cx="21.205776"
+     inkscape:cy="6.8038507"
      inkscape:window-x="0"
-     inkscape:window-y="38"
+     inkscape:window-y="40"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg12"
-     inkscape:document-rotation="0">
+     inkscape:document-rotation="0"
+     inkscape:pagecheckerboard="0">
     <inkscape:grid
        type="xygrid"
        id="grid841" />
@@ -66,11 +67,9 @@
   <g
      id="yakuake">
     <path
-       class="ColorScheme-Text"
+       style="color:#363636;fill:#000000;-inkscape-stroke:none"
        d="m 6.4648,7.4648 -0.70703,0.70703 2.8281,2.8281 -2.8281,2.8281 L 6.4648,14.53506 10,10.99986 6.4648,7.46466 Z M 10,14 v 1 h 5 v -1 z"
-       fill="currentColor"
-       id="path7"
-       style="fill:#000000;fill-opacity:1" />
+       id="path7" />
     <rect
        width="22"
        height="22"
