@@ -1,5 +1,4 @@
- 
-#!/bin/bash
+ #!/bin/bash
 
 ROOT_UID=0
 
