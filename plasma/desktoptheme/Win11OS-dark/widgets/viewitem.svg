@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
    sodipodi:docname="viewitem.svg"
    id="svg184"
    version="1.0"
@@ -30,14 +30,14 @@
      inkscape:document-rotation="0"
      inkscape:current-layer="svg184"
      inkscape:window-maximized="1"
-     inkscape:window-y="40"
+     inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:cy="102.76618"
-     inkscape:cx="31.284118"
-     inkscape:zoom="5.833631"
+     inkscape:cy="99.878787"
+     inkscape:cx="27.090909"
+     inkscape:zoom="8.2500001"
      showgrid="true"
      id="namedview186"
-     inkscape:window-height="954"
+     inkscape:window-height="1005"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -323,7 +323,7 @@
      class="ColorScheme-Highlight"
      d="m 22.000028,91.00005 v 48 h 48 v -48 z"
      inkscape:connector-curvature="0"
-     style="color:#3daee6;opacity:0.05;fill:#ffffff;stroke-width:0.99999994;fill-opacity:1" />
+     style="color:#3daee6;opacity:0.15;fill:#ffffff;stroke-width:0.99999994;fill-opacity:1" />
   <g
      style="opacity:1"
      id="hover-left"
@@ -333,7 +333,7 @@
        d="m 187.13999,829.86 v 16 H 190.14 v -16 z"
        id="path7-8"
        inkscape:connector-curvature="0"
-       style="color:#3daee6;opacity:0.05;fill:#ffffff;fill-opacity:1;stroke-width:0.866027" />
+       style="color:#3daee6;opacity:0.15;fill:#ffffff;fill-opacity:1;stroke-width:0.866027" />
   </g>
   <g
      style="opacity:1"
@@ -343,7 +343,7 @@
        inkscape:connector-curvature="0"
        id="path10-91"
        d="m 190.14,826.86 c -1.662,0 -3,1.338 -3,3 h 3 z"
-       style="color:#3daee6;opacity:0.05;fill:#ffffff;fill-opacity:1;stroke-width:0.749999" />
+       style="color:#3daee6;opacity:0.15;fill:#ffffff;fill-opacity:1;stroke-width:0.749999" />
   </g>
   <g
      style="opacity:1"
@@ -354,7 +354,7 @@
        d="M 190.14,826.85997 V 829.86 h 131 v -3.00003 z"
        id="path13-26"
        inkscape:connector-curvature="0"
-       style="color:#3daee6;opacity:0.05;fill:#ffffff;fill-opacity:1;stroke-width:0.86603" />
+       style="color:#3daee6;opacity:0.15;fill:#ffffff;fill-opacity:1;stroke-width:0.86603" />
   </g>
   <g
      style="opacity:1"
@@ -364,7 +364,7 @@
        inkscape:connector-curvature="0"
        id="path16-1"
        d="m 322.47333,826.52651 v 2.00015 h 2.00015 c 0,-1.10808 -0.89207,-2.00015 -2.00015,-2.00015 z"
-       style="color:#3daee6;opacity:0.05;fill:#ffffff;fill-opacity:1;stroke-width:0.500037" />
+       style="color:#3daee6;opacity:0.15;fill:#ffffff;fill-opacity:1;stroke-width:0.500037" />
   </g>
   <g
      style="opacity:1"
@@ -375,7 +375,7 @@
        d="m 324.13999,829.86 v 16 H 321.14 v -16 z"
        id="path19-7"
        inkscape:connector-curvature="0"
-       style="color:#3daee6;opacity:0.05;fill:#ffffff;fill-opacity:1;stroke-width:0.866023" />
+       style="color:#3daee6;opacity:0.15;fill:#ffffff;fill-opacity:1;stroke-width:0.866023" />
   </g>
   <g
      style="opacity:1"
@@ -385,7 +385,7 @@
        inkscape:connector-curvature="0"
        id="path149-0"
        d="m 190.14,829.86 v -2.99988 c -1.66193,0 -2.99988,1.33795 -2.99988,2.99988 z"
-       style="color:#3daee6;opacity:0.05;fill:#ffffff;fill-opacity:1;stroke-width:0.74997" />
+       style="color:#3daee6;opacity:0.15;fill:#ffffff;fill-opacity:1;stroke-width:0.74997" />
   </g>
   <g
      style="opacity:1"
@@ -396,7 +396,7 @@
        d="M 190.14,826.86006 V 829.86 h 131 v -2.99994 z"
        id="path152-84"
        inkscape:connector-curvature="0"
-       style="color:#3daee6;opacity:0.05;fill:#ffffff;fill-opacity:1;stroke-width:0.866017" />
+       style="color:#3daee6;opacity:0.15;fill:#ffffff;fill-opacity:1;stroke-width:0.866017" />
   </g>
   <g
      style="opacity:1"
@@ -406,7 +406,7 @@
        inkscape:connector-curvature="0"
        id="path155-7"
        d="m 324.13992,829.86 c 0,-1.66196 -1.33796,-2.99992 -2.99992,-2.99992 V 829.86 Z"
-       style="color:#3daee6;opacity:0.05;fill:#ffffff;fill-opacity:1;stroke-width:0.74998" />
+       style="color:#3daee6;opacity:0.15;fill:#ffffff;fill-opacity:1;stroke-width:0.74998" />
   </g>
   <path
      id="selected+hover-center"
