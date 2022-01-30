@@ -5,7 +5,7 @@
    version="1.1"
    id="svg21"
    sodipodi:docname="kdf.svg"
-   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -35,14 +35,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="954"
+     inkscape:window-height="1005"
      id="namedview23"
      showgrid="true"
-     inkscape:zoom="16"
-     inkscape:cx="-6.21875"
-     inkscape:cy="-2.5625"
+     inkscape:zoom="11.313709"
+     inkscape:cx="-15.512155"
+     inkscape:cy="2.032932"
      inkscape:window-x="0"
-     inkscape:window-y="40"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg21"
      inkscape:pagecheckerboard="0"
@@ -71,52 +71,33 @@
      opacity="0"
      id="rect5" />
   <g
-     id="kdf">
+     id="kdf"
+     transform="translate(22,-10)">
     <rect
        style="opacity:0.00100002;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect846"
+       id="rect846-3"
        width="22"
        height="22"
-       x="0"
-       y="0"
+       x="-22"
+       y="10"
        ry="0" />
     <path
-       id="rect901"
-       style="fill:#fffffe;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
-       d="m 4,11 c -1.108,0 -2,0.892 -2,2 v 4 c 0,1.108 0.892,2 2,2 h 14 c 1.108,0 2,-0.892 2,-2 v -4 c 0,-1.108 -0.892,-2 -2,-2 z m 0,1 h 14 c 0.554,0 1,0.446 1,1 v 4 c 0,0.554 -0.446,1 -1,1 H 4 C 3.446,18 3,17.554 3,17 v -4 c 0,-0.554 0.446,-1 1,-1 z"
-       sodipodi:nodetypes="ssssssssssssssssss" />
-    <circle
-       style="fill:#fffffe;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
-       id="path1126"
-       cx="16"
-       cy="15"
-       r="1" />
-    <g
-       id="g15946"
-       transform="translate(-76,1)" />
+       id="rect1665"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       d="m -5.5,29 c 1.38071,0 2.5,-1.11929 2.5,-2.5 v -11 C -3,14.1193 -4.11929,13 -5.5,13 h -11 c -1.3807,0 -2.5,1.1193 -2.5,2.5 v 11 c 0,1.38071 1.1193,2.5 2.5,2.5 z m 0,-1 H -9 V 25.5 C -9,24.67157 -9.67157,24 -10.5,24 H -18 v -8.5 c 0,-0.8284 0.6716,-1.5 1.5,-1.5 h 11 c 0.82843,0 1.5,0.6716 1.5,1.5 v 11 c 0,0.82843 -0.67157,1.5 -1.5,1.5 z m -4.5,0 h -6.5 C -17.3284,28 -18,27.32843 -18,26.5 V 25 h 7.5 c 0.27614,0 0.5,0.22386 0.5,0.5 z" />
   </g>
   <g
      id="16-16-kdf"
      transform="translate(26,-10)">
     <path
-       id="path17"
+       id="path17-6"
        d="m -42,16 v 16 h 16 V 16 Z"
        inkscape:connector-curvature="0"
        style="fill:none" />
-    <g
-       id="g1657"
-       transform="translate(-0.51276779)">
-      <path
-         id="path1249"
-         style="fill:#fffffe;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
-         d="m -38.487232,23 c -1.108,0 -2,0.892 -2,2 v 2 c 0,1.108 0.892,2 2,2 h 10 c 1.108,0 2,-0.892 2,-2 v -2 c 0,-1.108 -0.892,-2 -2,-2 z m 0,1 h 10 c 0.554,0 1,0.446 1,1 v 2 c 0,0.554 -0.446,1 -1,1 h -10 c -0.554,0 -1,-0.446 -1,-1 v -2 c 0,-0.554 0.446,-1 1,-1 z"
-         sodipodi:nodetypes="ssssssssssssssssss" />
-      <circle
-         style="fill:#fffffe;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
-         id="circle1251"
-         cx="-30.487232"
-         cy="26"
-         r="1" />
-    </g>
+    <path
+       id="path3447"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       d="m -29.5,31 c 1.38071,0 2.5,-1.11929 2.5,-2.5 v -9 c 0,-1.3807 -1.11929,-2.5 -2.5,-2.5 h -9 c -1.3807,0 -2.5,1.1193 -2.5,2.5 v 9 c 0,1.38071 1.1193,2.5 2.5,2.5 z m 0,-1 h -3.25 v -1.5 c 0,-0.82843 -0.67157,-1.5 -1.5,-1.5 H -40 v -7.5 c 0,-0.8284 0.6716,-1.5 1.5,-1.5 h 9 c 0.82843,0 1.5,0.6716 1.5,1.5 v 9 c 0,0.82843 -0.67157,1.5 -1.5,1.5 z m -4.25,0 H -38.5 C -39.3284,30 -40,29.32843 -40,28.5 V 28 h 5.75 c 0.27614,0 0.5,0.22386 0.5,0.5 z"
+       sodipodi:nodetypes="sssssssssscsscsssssscsscssc" />
   </g>
 </svg>
