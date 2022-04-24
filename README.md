@@ -15,6 +15,11 @@ In this repository you'll find:
 ```sh
 ./install.sh
 ```
+## Uninstall
+
+```sh
+./uninstall.sh
+```
 
 ## License
 
