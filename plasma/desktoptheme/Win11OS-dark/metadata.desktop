@@ -1,13 +1,15 @@
 [Desktop Entry]
 Name=Win11OS-dark
+Comment=Win11OS-dark theme for plasma
+
 X-KDE-PluginInfo-Author=yeyushengfan258
 X-KDE-PluginInfo-Email=yeyushengfan258@outlook.com
 X-KDE-PluginInfo-Name=Win11OS-dark
-X-KDE-PluginInfo-Version=
-X-KDE-PluginInfo-Website=
+X-KDE-PluginInfo-Version=0.1
+X-KDE-PluginInfo-Website=https://github.com/yeyushengfan258/Win11OS-kde
 X-KDE-PluginInfo-Category=
 X-KDE-PluginInfo-Depends=
-X-KDE-PluginInfo-License=LGPL
+X-KDE-PluginInfo-License=GPL 3.0
 X-KDE-PluginInfo-EnabledByDefault=true
 
 [ContrastEffect]
@@ -21,3 +23,6 @@ defaultWallpaperTheme=Win11OS-dark
 defaultFileSuffix=.jpg
 defaultWidth=3840
 defaultHeight=2400
+
+[AdaptiveTransparency]
+enabled=true

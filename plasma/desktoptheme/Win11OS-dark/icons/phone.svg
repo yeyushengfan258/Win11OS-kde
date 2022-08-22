@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
    id="svg"
-   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    sodipodi:docname="phone.svg"
    version="1.1"
    viewBox="0 0 22 22"
@@ -31,15 +31,15 @@
      gridtolerance="10"
      guidetolerance="10"
      inkscape:current-layer="svg"
-     inkscape:cx="21.919196"
-     inkscape:cy="-12.050814"
+     inkscape:cx="-33.021127"
+     inkscape:cy="2.9415372"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-height="954"
+     inkscape:window-height="1005"
      inkscape:window-maximized="1"
      inkscape:window-width="1920"
      inkscape:window-x="0"
-     inkscape:window-y="40"
+     inkscape:window-y="0"
      inkscape:zoom="5.2693538"
      objecttolerance="10"
      pagecolor="#c8c8c8"
@@ -48,7 +48,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:snap-smooth-nodes="true"
      inkscape:snap-bbox="true"
-     inkscape:bbox-nodes="true">
+     inkscape:bbox-nodes="true"
+     inkscape:showpageshadow="0"
+     inkscape:deskcolor="#c8c8c8">
     <inkscape:grid
        id="grid835"
        type="xygrid" />
@@ -138,14 +140,14 @@
       <path
          id="rect2777"
          style="fill:#fbfbfb;fill-opacity:1;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round"
-         d="m 375,537.36218 c -1.10799,0 -2,0.89201 -2,2 v 12 c 0,1.10799 0.89201,2 2,2 h 6 c 1.10799,0 2,-0.89201 2,-2 v -12 c 0,-1.10799 -0.89201,-2 -2,-2 z m 0,1 h 6 c 0.55399,0 1,0.44601 1,1 v 12 c 0,0.55399 -0.44601,1 -1,1 h -6 c -0.55399,0 -1,-0.44601 -1,-1 v -12 c 0,-0.55399 0.44601,-1 1,-1 z" />
+         d="m 375,538.36218 c -1.10799,0 -2,0.89201 -2,2 v 12 c 0,1.10799 0.89201,2 2,2 h 6 c 1.10799,0 2,-0.89201 2,-2 v -12 c 0,-1.10799 -0.89201,-2 -2,-2 z m 0,1 h 6 c 0.55399,0 1,0.44601 1,1 v 12 c 0,0.55399 -0.44601,1 -1,1 h -6 c -0.55399,0 -1,-0.44601 -1,-1 v -12 c 0,-0.55399 0.44601,-1 1,-1 z" />
       <rect
          style="fill:#fbfbfb;fill-opacity:1;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round"
          id="rect3147"
          width="2"
          height="1"
          x="377"
-         y="549.36218"
+         y="550.36218"
          ry="0.5" />
     </g>
   </g>
@@ -250,14 +252,14 @@
       <path
          id="path1201"
          style="fill:#fbfbfb;fill-opacity:1;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round"
-         d="m 375,537.36218 c -1.10799,0 -2,0.89201 -2,2 v 12 c 0,1.10799 0.89201,2 2,2 h 6 c 1.10799,0 2,-0.89201 2,-2 v -12 c 0,-1.10799 -0.89201,-2 -2,-2 z m 0,1 h 6 c 0.55399,0 1,0.44601 1,1 v 12 c 0,0.55399 -0.44601,1 -1,1 h -6 c -0.55399,0 -1,-0.44601 -1,-1 v -12 c 0,-0.55399 0.44601,-1 1,-1 z" />
+         d="m 375,538.36218 c -1.10799,0 -2,0.89201 -2,2 v 12 c 0,1.10799 0.89201,2 2,2 h 6 c 1.10799,0 2,-0.89201 2,-2 v -12 c 0,-1.10799 -0.89201,-2 -2,-2 z m 0,1 h 6 c 0.55399,0 1,0.44601 1,1 v 12 c 0,0.55399 -0.44601,1 -1,1 h -6 c -0.55399,0 -1,-0.44601 -1,-1 v -12 c 0,-0.55399 0.44601,-1 1,-1 z" />
       <rect
          style="fill:#fbfbfb;fill-opacity:1;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round"
          id="rect1203"
          width="2"
          height="1"
          x="377"
-         y="549.36218"
+         y="550.36218"
          ry="0.5" />
     </g>
     <g
@@ -266,7 +268,7 @@
       <path
          id="path5778"
          style="fill:none;fill-opacity:1;stroke:#3278ff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 235.53572,413.50504 v 1 h -1 v 2 l 1,1 v 1 c 0,0.554 -0.0538,1 0.50022,1 0.554,0 0.49978,-0.446 0.49978,-1 v -1 l 1,-1 v -2 h -1 v -1 z"
+         d="m 235.53572,414.50504 v 1 h -1 v 2 l 1,1 v 1 c 0,0.554 -0.0538,1 0.50022,1 0.554,0 0.49978,-0.446 0.49978,-1 v -1 l 1,-1 v -2 h -1 v -1 z"
          sodipodi:nodetypes="cccccssscccccc" />
       <g
          id="g5786"
@@ -277,11 +279,11 @@
            width="0.99999958"
            height="2.9999995"
            x="244.53572"
-           y="400.50504"
+           y="401.50504"
            ry="0.49999979" />
         <path
            style="fill:#fbfbfb;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           d="m 244.53572,401.50504 -1,-1 v -2 h 3 v 2 l -1,1 z"
+           d="m 244.53572,402.50504 -1,-1 v -2 h 3 v 2 l -1,1 z"
            id="path5782"
            sodipodi:nodetypes="ccccccc" />
         <rect
@@ -290,7 +292,7 @@
            width="0.99999994"
            height="2.0000021"
            x="244.53572"
-           y="397.50504"
+           y="398.50504"
            ry="0" />
       </g>
     </g>

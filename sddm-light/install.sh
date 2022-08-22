@@ -38,6 +38,7 @@ prompt () {
 # Checking for root access and proceed if it is present
 if [ "$UID" -eq "$ROOT_UID" ]; then
   prompt -i "\n * Install Win11OS-light in ${THEME_DIR}... "
+  [[ -d "${THEME_DIR}/Win11OS-light" ]] && rm -rf "${THEME_DIR}/Win11OS-light"
   cp -r "${REO_DIR}/Win11OS-light" "${THEME_DIR}"
   # Success message
   prompt -s "\n * All done!"

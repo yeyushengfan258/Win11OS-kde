@@ -35,12 +35,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1002"
+     inkscape:window-height="1004"
      id="namedview416"
      showgrid="true"
-     inkscape:zoom="2.8284271"
-     inkscape:cx="242.89118"
-     inkscape:cy="97.580737"
+     inkscape:zoom="7.9999999"
+     inkscape:cx="114.625"
+     inkscape:cy="80.875001"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -169,7 +169,7 @@
      x="91"
      id="normal-hint-compose-over-border" />
   <path
-     style="color:#3daee6;opacity:0.2;fill:#000000;stroke-width:0.70710599;fill-opacity:1"
+     style="color:#3daee6;opacity:1;fill:#6d8092;stroke-width:0.70710599;fill-opacity:1"
      inkscape:connector-curvature="0"
      d="M 110.00003,72.00005 V 96 h 48 V 72.00005 Z"
      class="ColorScheme-Highlight"
@@ -179,7 +179,7 @@
      id="hover-topleft"
      style="opacity:1">
     <path
-       style="color:#3daee6;opacity:0.2;fill:#000000;stroke-width:1.25000119;fill-opacity:1"
+       style="color:#3daee6;opacity:1;fill:#6d8092;stroke-width:1.25000119;fill-opacity:1"
        d="m 190.14,824.86 c -2.77,0 -5,2.23 -5,5 h 5 z"
        id="path5201"
        inkscape:connector-curvature="0" />
@@ -199,7 +199,7 @@
      id="hover-top"
      style="opacity:1">
     <path
-       style="color:#3daee6;opacity:0.2;fill:#000000;fill-opacity:1;stroke-width:1.11803782"
+       style="color:#3daee6;opacity:1;fill:#6d8092;fill-opacity:1;stroke-width:1.11803782"
        inkscape:connector-curvature="0"
        id="path13-26"
        d="M 190.14,824.85997 V 829.86 h 131 v -5.00003 z"

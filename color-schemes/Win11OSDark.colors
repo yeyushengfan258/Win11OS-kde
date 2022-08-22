@@ -48,7 +48,7 @@ ForegroundVisited=49,91,239
 
 [Colors:Selection]
 BackgroundAlternate=79,127,239
-BackgroundNormal=80,80,80
+BackgroundNormal=10,160,230
 DecorationFocus=60,60,60
 DecorationHover=234,234,234
 ForegroundActive=252,252,252
@@ -108,7 +108,7 @@ Name=Win11OSDark
 shadeSortColumn=true
 
 [KDE]
-contrast=4
+contrast=0
 
 [WM]
 activeBackground=51,51,51
