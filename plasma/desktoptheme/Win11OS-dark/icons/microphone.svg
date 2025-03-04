@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16"
+   height="16"
+   version="1.1"
+   id="svg3638"
+   sodipodi:docname="microphone.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview3640"
+     pagecolor="#c8c8c8"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="true"
+     inkscape:zoom="8"
+     inkscape:cx="18"
+     inkscape:cy="8.0625"
+     inkscape:window-width="1920"
+     inkscape:window-height="989"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3638">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3759" />
+  </sodipodi:namedview>
+  <defs
+     id="defs3632">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text { color:#333333
+; } .ColorScheme-Highlight { color:#5294e2; }</style>
+  </defs>
+  <g
+     id="microphone-sensitivity-muted">
+    <rect
+       id="rect3889"
+       width="16"
+       height="16"
+       x="48"
+       y="0"
+       rx="0"
+       ry="0"
+       style="fill:none" />
+    <rect
+       style="fill:#fbfbfb;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.3001;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       id="rect3006"
+       width="22"
+       height="1"
+       x="34.360794"
+       y="-34.441128"
+       ry="0.5"
+       transform="rotate(45)" />
+    <g
+       id="g2256"
+       transform="translate(48,16)">
+      <path
+         id="path2252"
+         d="M 3.5,-8.5 C 3.2238603,-8.5 3,-8.2761397 3,-8 c 0,2.8690171 2.1967528,5.2258159 5,5.4785156 V -0.5 C 8,-0.22390028 8.2238603,0 8.5,0 8.7760997,0 9,-0.22390028 9,-0.5 V -2.5214844 C 11.803297,-2.7741841 14,-5.1309829 14,-8 14,-8.2761397 13.7761,-8.5 13.5,-8.5 13.2239,-8.5 13,-8.2761397 13,-8 13,-5.5146825 10.985298,-3.5 8.5,-3.5 6.0147225,-3.5 4,-5.5146825 4,-8 4,-8.2761397 3.7761397,-8.5 3.5,-8.5 Z"
+         style="opacity:0.2;fill:#ffffff;fill-opacity:1" />
+      <path
+         id="path2254"
+         d="m 8.5,-15 c -1.6568483,0 -3,1.343152 -3,3 v 4 c 0,1.6568183 1.3431517,3 3,3 1.656898,0 3,-1.3431817 3,-3 v -4 c 0,-1.656848 -1.343102,-3 -3,-3 z m 0,1 c 1.1045989,0 2,0.895431 2,2 v 4 c 0,1.1046189 -0.8954011,2 -2,2 -1.1045689,0 -2,-0.8953811 -2,-2 v -4 c 0,-1.104569 0.8954311,-2 2,-2 z"
+         style="opacity:0.2;fill:#ffffff;fill-opacity:1"
+         sodipodi:nodetypes="ssssssssssssss" />
+    </g>
+  </g>
+  <g
+     id="microphone-sensitivity-high">
+    <rect
+       id="rect3862"
+       width="16"
+       height="16"
+       x="0"
+       y="0"
+       rx="0"
+       ry="0"
+       style="fill:none" />
+    <path
+       id="path309"
+       d="M 3,7.5 C 2.7238603,7.5 2.5,7.7238603 2.5,8 c 0,2.869017 2.1967528,5.225816 5,5.478516 V 15.5 C 7.5,15.7761 7.7238603,16 8,16 8.2760997,16 8.5,15.7761 8.5,15.5 V 13.478516 C 11.303297,13.225816 13.5,10.869017 13.5,8 13.5,7.7238603 13.2761,7.5 13,7.5 12.7239,7.5 12.5,7.7238603 12.5,8 12.5,10.485318 10.485298,12.5 8,12.5 5.5147225,12.5 3.5,10.485318 3.5,8 3.5,7.7238603 3.2761397,7.5 3,7.5 Z"
+       style="fill:#ffffff;fill-opacity:1" />
+    <path
+       id="path937"
+       d="M 8,1 C 6.3431517,1 5,2.343152 5,4 v 4 c 0,1.6568183 1.3431517,3 3,3 1.656898,0 3,-1.3431817 3,-3 V 4 C 11,2.343152 9.656898,1 8,1 Z m 0,1 c 1.1045989,0 2,0.895431 2,2 V 8 C 10,9.1046189 9.1045989,10 8,10 6.8954311,10 6,9.1046189 6,8 V 4 C 6,2.895431 6.8954311,2 8,2 Z"
+       style="fill:#ffffff;fill-opacity:1"
+       sodipodi:nodetypes="ssssssssssssss" />
+    <rect
+       style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1.09545;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;fill-opacity:1"
+       id="rect1079"
+       width="2"
+       height="6"
+       x="7"
+       y="3"
+       ry="1" />
+  </g>
+  <g
+     id="microphone-sensitivity-medium">
+    <rect
+       id="rect3875"
+       width="16"
+       height="16"
+       x="16"
+       y="0"
+       rx="0"
+       ry="0"
+       style="fill:none" />
+    <path
+       id="path2236"
+       d="m 19,7.5 c -0.27614,0 -0.5,0.2238603 -0.5,0.5 0,2.869017 2.196753,5.225816 5,5.478516 V 15.5 c 0,0.2761 0.22386,0.5 0.5,0.5 0.2761,0 0.5,-0.2239 0.5,-0.5 v -2.021484 c 2.803297,-0.2527 5,-2.609499 5,-5.478516 0,-0.2761397 -0.2239,-0.5 -0.5,-0.5 -0.2761,0 -0.5,0.2238603 -0.5,0.5 0,2.485318 -2.014702,4.5 -4.5,4.5 -2.485277,0 -4.5,-2.014682 -4.5,-4.5 0,-0.2761397 -0.22386,-0.5 -0.5,-0.5 z"
+       style="fill:#ffffff;fill-opacity:1" />
+    <path
+       id="path2238"
+       d="m 24,1 c -1.656848,0 -3,1.343152 -3,3 v 4 c 0,1.6568183 1.343152,3 3,3 1.656898,0 3,-1.3431817 3,-3 V 4 C 27,2.343152 25.656898,1 24,1 Z m 0,1 c 1.104599,0 2,0.895431 2,2 v 4 c 0,1.1046189 -0.895401,2 -2,2 -1.104569,0 -2,-0.8953811 -2,-2 V 4 c 0,-1.104569 0.895431,-2 2,-2 z"
+       style="fill:#ffffff;fill-opacity:1"
+       sodipodi:nodetypes="ssssssssssssss" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.09545;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;opacity:0.5"
+       id="rect1219"
+       width="2"
+       height="6"
+       x="23"
+       y="3"
+       ry="1" />
+  </g>
+  <g
+     id="microphone-sensitivity-low">
+    <rect
+       id="rect3883"
+       width="16"
+       height="16"
+       x="32"
+       y="0"
+       rx="0"
+       ry="0"
+       style="fill:none" />
+    <path
+       id="path2244"
+       d="m 35,7.5 c -0.27614,0 -0.5,0.2238603 -0.5,0.5 0,2.869017 2.196753,5.225816 5,5.478516 V 15.5 c 0,0.2761 0.22386,0.5 0.5,0.5 0.2761,0 0.5,-0.2239 0.5,-0.5 v -2.021484 c 2.803297,-0.2527 5,-2.609499 5,-5.478516 0,-0.2761397 -0.2239,-0.5 -0.5,-0.5 -0.2761,0 -0.5,0.2238603 -0.5,0.5 0,2.485318 -2.014702,4.5 -4.5,4.5 -2.485278,0 -4.5,-2.014682 -4.5,-4.5 0,-0.2761397 -0.22386,-0.5 -0.5,-0.5 z"
+       style="fill:#ffffff;fill-opacity:1" />
+    <path
+       id="path2246"
+       d="m 40,1 c -1.656848,0 -3,1.343152 -3,3 v 4 c 0,1.6568183 1.343152,3 3,3 1.656898,0 3,-1.3431817 3,-3 V 4 C 43,2.343152 41.656898,1 40,1 Z m 0,1 c 1.104599,0 2,0.895431 2,2 v 4 c 0,1.1046189 -0.895401,2 -2,2 -1.104569,0 -2,-0.8953811 -2,-2 V 4 c 0,-1.104569 0.895431,-2 2,-2 z"
+       style="fill:#ffffff;fill-opacity:1"
+       sodipodi:nodetypes="ssssssssssssss" />
+    <rect
+       style="opacity:0.2;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.09545;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       id="rect2716"
+       width="2"
+       height="6"
+       x="39"
+       y="3"
+       ry="1" />
+  </g>
+</svg>

@@ -1,5 +1,5 @@
-[kdeglobals][KDE]
-widgetStyle=kvantum
+[kcminputrc][Mouse]
+cursorTheme=Win10OS-cursors
 
 [kdeglobals][General]
 ColorScheme=Win11OSDark
@@ -7,8 +7,14 @@ ColorScheme=Win11OSDark
 [kdeglobals][Icons]
 Theme=Win11
 
-[plasmarc][Theme]
-name=Win11OS-dark
+[kdeglobals][KDE]
+widgetStyle=kvantum
+
+[kwinrc][DesktopSwitcher]
+LayoutName=org.kde.breeze.desktop
+
+[kwinrc][WindowSwitcher]
+LayoutName=org.kde.breeze.desktop
 
 [kwinrc][org.kde.kdecoration2]
 ButtonsOnLeft=XAI
@@ -16,5 +22,5 @@ ButtonsOnRight=
 library=org.kde.kwin.aurorae
 theme=__aurorae__svg__Win11OS-dark
 
-[kcminputrc][Mouse]
-cursorTheme=breeze_cursors
+[plasmarc][Theme]
+name=Win11OS-dark
