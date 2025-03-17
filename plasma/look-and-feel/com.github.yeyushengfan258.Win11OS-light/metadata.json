@@ -1,0 +1,34 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "yeyushengfan258@outlook.com",
+                "Name": "yeyushengfan258"
+            }
+        ],
+        "Category": "Global Themes (Plasma 6)",
+        "ServiceTypes": [
+            "Plasma/LookAndFeel"
+        ],
+        "EnabledByDefault": true,
+        "Description": "Win11OS-light theme for kde plasma",
+        "Id": "com.github.yeyushengfan258.Win11OS-light",
+        "License": "GPLv3",
+        "Name": "Win11OS-light",
+        "Website": "https://github.com/yeyushengfan258/Win11OS-light-kde"
+    },
+    "Keywords": "Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;",
+    "X-KDE-fallbackPackage": "org.kde.breeze.desktop",
+    "X-Plasma-MainScript": "defaults",
+    "X-Plasma-APIVersion": "2",
+    "X-KPackage-Dependencies": [
+        "kns://colorschemes.knsrc/api.kde-look.org/1563784",
+        "kns://plasma-themes.knsrc/api.kde-look.org/1563794",
+        "kns://aurorae.knsrc/api.kde-look.org/1563782",
+        "kns://wallpaper.knsrc/api.kde-look.org/1563780",
+        "kns://sddmtheme.knsrc/api.kde-look.org/1563791",
+        "kns://icons.knsrc/api.kde-look.org/1546069",
+        "kns://xcursor.knsrc/api.kde-look.org/1436673"
+    ]
+}
