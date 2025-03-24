@@ -37,11 +37,12 @@ uninstall() {
   [[ -d ${LOOKFEEL_THEME} ]] && rm -rfv ${LOOKFEEL_THEME}
   [[ -d ${KVANTUM_THEME}/${name} ]] && rm -rfv ${KVANTUM_THEME}/${name}
   [[ -d ${SCHEMES_DIR}/${name}.colors ]] && rm -rfv ${SCHEMES_DIR}/${name}.colors
-  [[ -d ${WALLPAPER_DIR}/Layan ]] && rm -rfv ${WALLPAPER_DIR}/{Win11OS-light,Win11OS-dark}
+  [[ -d ${WALLPAPER_DIR}/Layan ]] && rm -rfv ${WALLPAPER_DIR}/${name}
 }
 
 echo "Uninstalling '${THEME_NAME} kde themes'..."
 
-uninstall "${name:-${THEME_NAME}}"
+uninstall "${name:-${THEME_NAME}-light}"
+uninstall "${name:-${THEME_NAME}-dark}"
 
 echo "Uninstall finished..."
