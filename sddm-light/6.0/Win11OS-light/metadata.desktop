@@ -1,17 +1,17 @@
 [SddmGreeterTheme]
-Name=Win11OS-dark
+Name=Win11OS-light
 Description=We10XOS theme for KDE Plasma
 Author=yeyushengfan258
 Copyright=(c) 2014, David Edmundson
 License=CC-BY-SA
 Type=sddm-theme
 Version=0.1
-Website=https://github.com/yeyushengfan258/Win11OS-dark-kde
+Website=https://github.com/yeyushengfan258/Win11OS-kde
 Screenshot=preview.png
 MainScript=Main.qml
 ConfigFile=theme.conf
 TranslationsDirectory=translations
 Email=yeyushengfan258@outlook.com
-Theme-Id=Win11OS-dark
+Theme-Id=Win11OS-light
 Theme-API=2.0
 QtVersion=6
