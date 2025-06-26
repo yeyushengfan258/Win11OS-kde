@@ -6,7 +6,7 @@
    version="1.1"
    style="enable-background:new"
    sodipodi:docname="restore.svg"
-   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -37,13 +37,13 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1005"
+     inkscape:window-width="2560"
+     inkscape:window-height="1411"
      id="namedview20"
      showgrid="true"
-     inkscape:zoom="5.656854"
-     inkscape:cx="19.975767"
-     inkscape:cy="43.045127"
+     inkscape:zoom="7.9999996"
+     inkscape:cx="47.812502"
+     inkscape:cy="30.375001"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -61,7 +61,10 @@
        type="xygrid"
        id="grid74"
        originx="0"
-       originy="0" />
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px" />
   </sodipodi:namedview>
   <use
      x="0"
@@ -129,7 +132,7 @@
          y="-19.579166" />
       <path
          id="path17624"
-         style="color:#232629;fill:#000000;fill-opacity:1;opacity:0.4"
+         style="color:#232629;fill:#000000;fill-opacity:1;opacity:0.2"
          d="m 83,-89 c -0.741067,0 -1.379047,0.404199 -1.724609,1 H 86 c 1.107999,0 2,0.892001 2,2 v 4.724609 C 88.595797,-81.620953 89,-82.258925 89,-83 v -3 c 0,-1.661998 -1.337998,-3 -3,-3 z m -2,2 c -1.107999,0 -2,0.891997 -2,2 v 4 c 0,1.108003 0.892001,2 2,2 h 4 c 1.108003,0 2,-0.891997 2,-2 v -4 c 0,-1.108003 -0.891997,-2 -2,-2 z m 0,1 h 4 c 0.554003,0 1,0.446001 1,1 v 4 c 0,0.554003 -0.445997,1 -1,1 h -4 c -0.553999,0 -1,-0.445997 -1,-1 v -4 c 0,-0.553999 0.446001,-1 1,-1 z"
          transform="matrix(0.26458333,0,0,0.26458333,2.1166685,5.5562504)"
          class="ColorScheme-Text" />
@@ -162,7 +165,7 @@
          y="-19.579166" />
       <path
          id="path21018"
-         style="color:#232629;opacity:0.4;fill:#000000;fill-opacity:1"
+         style="color:#232629;opacity:0.2;fill:#000000;fill-opacity:1"
          d="m 83,-89 c -0.741067,0 -1.379047,0.404199 -1.724609,1 H 86 c 1.107999,0 2,0.892001 2,2 v 4.724609 C 88.595797,-81.620953 89,-82.258925 89,-83 v -3 c 0,-1.661998 -1.337998,-3 -3,-3 z m -2,2 c -1.107999,0 -2,0.891997 -2,2 v 4 c 0,1.108003 0.892001,2 2,2 h 4 c 1.108003,0 2,-0.891997 2,-2 v -4 c 0,-1.108003 -0.891997,-2 -2,-2 z m 0,1 h 4 c 0.554003,0 1,0.446001 1,1 v 4 c 0,0.554003 -0.445997,1 -1,1 h -4 c -0.553999,0 -1,-0.445997 -1,-1 v -4 c 0,-0.553999 0.446001,-1 1,-1 z"
          transform="matrix(0.26458333,0,0,0.26458333,2.1166685,5.5562504)"
          class="ColorScheme-Text" />
