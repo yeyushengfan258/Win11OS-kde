@@ -36,6 +36,7 @@ GNU GPL v3
 ![view](View-2.png?raw=true)
 ![view](View-3.png?raw=true)
 ![view](View-4.png?raw=true)
-
+![view](View-5.png?raw=true)
+![view](View-6.png?raw=true)
 
 
